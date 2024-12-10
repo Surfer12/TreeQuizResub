@@ -31,6 +31,8 @@
   "settings": {
     "java.project.sourcePaths": ["src"],
     "java.project.outputPath": "bin",
-    "java.project.referencedLibraries": ["lib/**/*.jar"]
+    "java.project.referencedLibraries": ["lib/**/*.jar"],
+    "prompty.currentModelConfiguration": "default",
+    "java.compile.nullAnalysis.mode": "automatic"
   }
 }
