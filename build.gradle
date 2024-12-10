@@ -13,8 +13,9 @@ dependencies {
 }
 
 application {
-    mainClassName = 'app.Application'
+    mainClassName = 'App'
 }
+
 
 sourceCompatibility = '17'
 targetCompatibility = '17'

@@ -1,16 +1,42 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {
-		"java.project.sourcePaths": [
-			"src"
-		],
-		"java.project.outputPath": "bin",
-		"java.project.referencedLibraries": [
-			"lib/**/*.jar"
-		]
-	}
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../../../Volumes/PartitionOne/ClaudeDFSandBFS"
+    },
+    {
+      "path": "../../../Volumes/PartitionOne/Comprehensive-Guide-to-Graph-Traversal-Algorithms-BFS-and-DFS"
+    },
+    {
+      "path": "../../../Volumes/PartitionOne/DijkstraProject"
+    },
+    {
+      "path": "../../../Volumes/PartitionOne/djikstra"
+    },
+    {
+      "path": "../../../Volumes/PartitionOne/GithubClonesMisc"
+    },
+    {
+      "path": "../../../Volumes/PartitionOne/RebsubDijka"
+    },
+    {
+      "path": "../../../Volumes/PartitionOne/treeAssignment"
+    },
+    {
+      "path": "../../../Volumes/PartitionOne/TreeQuizResub"
+    },
+    {
+      "path": "../../../Volumes/PartitionOne/GitHub"
+    },
+    {
+      "path": "../../../Volumes/PartitionOne/Library"
+    }
+  ],
+  "settings": {
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": ["lib/**/*.jar"]
+  }
 }
